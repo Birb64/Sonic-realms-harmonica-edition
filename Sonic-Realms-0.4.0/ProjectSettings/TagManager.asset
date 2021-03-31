@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Motobug Turn Left
+  - Motobug Turn Right
+  - Main Hitbox
+  - Attack Hitbox
+  - Hurt Player
+  - Kill Player
+  - Buzz Bomber Turn Left
+  - Buzz Bomber Turn Right
+  - Buzz Bomber Shoot
+  - Spikes
+  - Menu
+  - CameraCanvas
+  - CUS
+  - RingSoundManager
+  - Saver
+  - RingHUD
+  - ScoreHUD
+  - TimeHUD
+  - RingSoundR
+  - RingSoundL
+  - SpilledRingSound
+  - BoostSound
+  - DebugValues
+  - DebugText
+  - DebugName
+  - DebugInstructions
+  - SonicSprite
+  - MusicPlayer
+  - MusicPlayer2
+  - RingUISprite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Terrain Layer 7
+  - Terrain Layer 6
+  - Terrain Layer 5
+  - Terrain Layer 4
+  - Terrain Layer 3
+  - Terrain Layer 2
+  - Terrain Layer 1
+  - Terrain
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax_A
+    uniqueID: 4047293301
+    locked: 0
+  - name: Parallax_B
+    uniqueID: 182623717
+    locked: 0
+  - name: Level_Low_A
+    uniqueID: 2218882549
+    locked: 0
+  - name: Level_Low_B
+    uniqueID: 3595124367
+    locked: 0
+  - name: Level_Mid_A
+    uniqueID: 1817570899
+    locked: 0
+  - name: Level_Mid_B
+    uniqueID: 2279212375
+    locked: 0
+  - name: Level_High_A
+    uniqueID: 3296989711
+    locked: 0
+  - name: Level_High_B
+    uniqueID: 1510991847
+    locked: 0
+  - name: GUI_HUD_A
+    uniqueID: 436051825
+    locked: 0
+  - name: GUI_HUD_B
+    uniqueID: 4188440385
+    locked: 0
+  - name: GUI_TitleCard_A
+    uniqueID: 3913478651
+    locked: 0
+  - name: GUI_TitleCard_B
+    uniqueID: 2877488669
+    locked: 0
+  - name: GUI_Fade_A
+    uniqueID: 1263411409
+    locked: 0
+  - name: GUI_Fade_B
+    uniqueID: 663976569
+    locked: 0
